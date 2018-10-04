@@ -1,5 +1,5 @@
 {
-  "name": "disciple-eslint-config",
+  "name": "eslint-config-disciple",
   "version": "1.0.0",
   "description": "A shareable ESLint config for Disciple Media projects.",
   "main": "index.js",
