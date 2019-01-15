@@ -116,6 +116,7 @@
     "vue/require-valid-default-prop": "error",
     "vue/return-in-computed-property": "error",
     "vue/max-attributes-per-line": false,
-    "vue/html-closing-bracket-newline": false
+    "vue/html-closing-bracket-newline": false,
+    "vue/multiline-html-element-content-newline": false
   }
 }
