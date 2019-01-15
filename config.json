@@ -117,6 +117,7 @@
     "vue/return-in-computed-property": "error",
     "vue/max-attributes-per-line": false,
     "vue/html-closing-bracket-newline": false,
-    "vue/multiline-html-element-content-newline": false
+    "vue/multiline-html-element-content-newline": false,
+    "vue/singleline-html-element-content-newline": false
   }
 }
