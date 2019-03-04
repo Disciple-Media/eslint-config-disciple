@@ -16,9 +16,9 @@
     "url": "https://github.com/Disciple-Media/disciple-eslint-config/issues"
   },
   "homepage": "https://github.com/Disciple-Media/disciple-eslint-config#readme",
-  "devDependencies": {
-    "eslint": "^5.6.1",
-    "eslint-plugin-vue": "^4.2.0",
-    "babel-eslint": "^10.0.1"
+  "peerDependencies": {
+    "eslint": ">= 5",
+    "eslint-plugin-vue": ">= 5",
+    "babel-eslint": ">= 7"
   }
 }
