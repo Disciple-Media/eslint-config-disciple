@@ -102,6 +102,14 @@
         ]
       }
     ],
+    "capitalized-comments": [
+      "error",
+      "always",
+      {
+        "ignoreInlineComments": true,
+        "ignoreConsecutiveComments": true
+      }
+    ],
     "vue/no-async-in-computed-properties": "error",
     "vue/no-dupe-keys": "error",
     "vue/no-duplicate-attributes": "error",
