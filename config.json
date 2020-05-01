@@ -124,10 +124,10 @@
     "vue/require-render-return": "error",
     "vue/require-valid-default-prop": "error",
     "vue/return-in-computed-property": "error",
-    "vue/max-attributes-per-line": false,
-    "vue/html-closing-bracket-newline": false,
-    "vue/multiline-html-element-content-newline": false,
-    "vue/singleline-html-element-content-newline": false,
+    "vue/max-attributes-per-line": "off",
+    "vue/html-closing-bracket-newline": "off",
+    "vue/multiline-html-element-content-newline": "off",
+    "vue/singleline-html-element-content-newline": "off",
     "vue/eqeqeq": "error"
   }
 }
