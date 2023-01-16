@@ -18,7 +18,9 @@
   "homepage": "https://github.com/Disciple-Media/disciple-eslint-config#readme",
   "peerDependencies": {
     "eslint": ">= 6.8",
-    "eslint-plugin-vue": ">= 6.2",
-    "babel-eslint": ">= 10"
+    "eslint-plugin-vue": ">= 6.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": ">= 7.19.1"
   }
 }
